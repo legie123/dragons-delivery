@@ -1,0 +1,7 @@
+.DS_Store
+.npm-cache/
+*.sh
+.git/
+.gitignore
+.gcloudignore
+cloudbuild.yaml
